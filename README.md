@@ -46,11 +46,7 @@ Valorização (%) = ((Preço final - Preço inicial) / Preço inicial) × 100
 A volatilidade é estimada a partir do desvio padrão das variações percentuais dos preços.
 
 ## 🛠️ Tecnologias
-- Python - Pandas
-OpenAI API
-python-dotenv
-CSV
-Git/GitHub
+- Python, Pandas, OpenAI API, python-dotenv, CSV
 
 ## 🔮 Melhorias para o futuro
 - Adaptar dados reais de mercado que são muito grandes
