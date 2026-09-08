@@ -17,7 +17,7 @@ O objetivo do projeto é criar um pequeno analista de mercado de cartas, capaz d
 ## ⚙️ Como funciona
 
 O fluxo principal do projeto é:
-
+```text
 Arquivo CSV
     ↓
 Pandas
@@ -27,6 +27,7 @@ Cálculo das métricas
 Resultados da análise
     ↓
 OpenAI
+```
 
 O Python é responsável pelos cálculos dos preços e métricas. A IA recebe os resultados e explica as informações de forma clara.
 
